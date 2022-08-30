@@ -1,6 +1,5 @@
 <img width="500px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-# project-java
-projetos java em geral, visando aumentar o conhecimento na linguagem
+# projetos java em geral, visando aumentar o conhecimento na linguagem
 
 
 ## autores iniciais
