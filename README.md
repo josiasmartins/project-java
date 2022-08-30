@@ -1,6 +1,4 @@
- <a href="mailto:josiasmartinscaitano@outlook.com">
-    <img width="500px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  </a>
+<img width="500px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 # project-java
 projetos java em geral, visando aumentar o conhecimento na linguagem
 
